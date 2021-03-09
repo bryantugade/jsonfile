@@ -1,0 +1,244 @@
+{
+    "response": {
+        "statusCode": "200",
+        "statusMessage": "Success",
+        "memberDetails": [
+            {
+                "triCreatedByTX": "Svenstrup, Martin - 1001329",
+                "triTaskTypeCL": "Planned",
+                "cstCustomerCostCenterLookupTX": null,
+                "cstISSProfitCenterLookupTX": null,
+                "triWorkingLocationTX": "\\Locations\\Beumer Group A/S\\P. O. Pedersens Vej 10\\Bygning Syd",
+                "triRecordNameSY": "1027588-18-01-PPM-FES1 ABA - 1 YEAR - Maintenance - YEARLY",
+                "triConstraintLI": "As Soon As Possible",
+                "cstCustomerCostCenterManualBL": null,
+                "cstISSCostCenterLookupTX": null,
+                "triNameTX": "18-01-PPM-FES1 ABA - 1 YEAR - Maintenance - YEARLY",
+                "triUserMessageTX": null,
+                "triActualPercentCompleteNU": 100,
+                "triCurrencyUO": "US Dollars",
+                "cstExternalNumberTX": "112557|testsiemensdk|New",
+                "triActualEndDT": "2020-02-06T14:52:03.037+01:00",
+                "triCreatedDT": "2017-12-06T12:29:19.140+01:00",
+                "triIdTX": "1027588",
+                "triPriorityClassCL": "High",
+                "triActualStartDT": "2020-02-06T14:51:31+01:00",
+                "triStatusCL": "Completed",
+                "cstCustomerInvoiceTX": null,
+                "triMatrixRequestClassCL": "1700 O&M -Fire and Security System Maintenance",
+                "cstBudgetTypeLI": null,
+                "triConstraintDT": null,
+                "cstEmergencyBL": false,
+                "cstCustomerPONumTX": null,
+                "identifier": "127689444",
+                "cstAssociatedDocuments": {
+                    "rdfs:member": [
+                        {
+                            "wdrs:describedBy": {
+                                "identifier": "129187811",
+                                "DM_DOCUMENT_NUMBER": "129187811",
+                                "format": {
+                                    "rdfs:label": "image/jpeg"
+                                },
+                                "DM_DOCUMENT_STATUS": "Work In Progress",
+                                "DM_REVISION_DATE": "01/28/2021 10:57 AM",
+                                "DM_FILE_NAME": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "Name": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "DM_REVISION": "0.0"
+                            }
+                        }
+                    ]
+                },
+                "triExternalTaskIdTX": null,
+                "triPlannedWrenchHoursNU": 160,
+                "cstCustomerCostCenterTX": null,
+                "cstWithinOutsideContractTX": null,
+                "OrgName": "\\Organizations\\ISS Providers\\ISS Facility Services Denmark\\Industry & Pharma\\ISS@Beumer\\Property@Beumer",
+                "triTaskSeverityLI": "1 Low",
+                "triDescriptionTX": "2019.12.18/LKM hvis dette er DBI Indspe. bliver d. først gemmenført i midt januar\n2020.02.06/LKM  Følge årseftersyn med DBI og  få rettet/og rette fejl .",
+                "triPlannedStartDT": "2019-12-06T12:04:16.699+01:00",
+                "triModifiedByTX": "Kjeldmann, Lars Birko - 1001325",
+                "triPlannedEndDT": "2020-01-03T12:04:16+01:00",
+                "cstSLAElapsedTimeDU": "0",
+                "triModifiedSY": "2021-01-26T09:44:02.990+01:00"
+            },
+            {
+                "triTaskTypeCL": "Corrective",
+                "triWorkingLocationTX": "\\Locations\\Beumer Group A/S\\P. O. Pedersens Vej 10\\Bygning Nord\\-1 Kælder",
+                "triConstraintLI": "As Soon As Possible",
+                "cstISSCostCenterLookupTX": null,
+                "triActualPercentCompleteNU": 100,
+                "triCurrencyUO": "Danish Krone",
+                "cstExternalNumberTX": "112558|testsiemensdk|New",
+                "triActualEndDT": "2018-10-03T13:13:56.658+02:00",
+                "triCreatedDT": "2018-09-20T09:15:31.028+02:00",
+                "triPriorityClassCL": "Medium",
+                "triActualStartDT": "2018-09-20T09:15:31.038+02:00",
+                "triStatusCL": "Closed",
+                "triConstraintDT": null,
+                "triExternalTaskIdTX": null,
+                "cstWithinOutsideContractTX": "Included",
+                "triPlannedEndDT": "2018-09-27T09:15:31+02:00",
+                "triCreatedByTX": "Svenningsen, Marianne - 1001337",
+                "cstCustomerCostCenterLookupTX": null,
+                "cstISSProfitCenterLookupTX": null,
+                "triRecordNameSY": "1028167--1 Kælder-1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "cstCustomerCostCenterManualBL": null,
+                "triNameTX": "-1 Kælder-1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "triUserMessageTX": null,
+                "triIdTX": "1028167",
+                "cstCustomerInvoiceTX": null,
+                "triMatrixRequestClassCL": "1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "cstBudgetTypeLI": null,
+                "cstEmergencyBL": false,
+                "cstCustomerPONumTX": null,
+                "identifier": "127863424",
+                "cstAssociatedDocuments": {
+                    "rdfs:member": [
+                        {
+                            "wdrs:describedBy": {
+                                "identifier": "129187812",
+                                "DM_DOCUMENT_NUMBER": "129187811",
+                                "format": {
+                                    "rdfs:label": "image/jpeg"
+                                },
+                                "DM_DOCUMENT_STATUS": "Work In Progress",
+                                "DM_REVISION_DATE": "01/28/2021 10:57 AM",
+                                "DM_FILE_NAME": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "Name": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "DM_REVISION": "0.0"
+                            }
+                        }
+                    ]
+                },
+                "triPlannedWrenchHoursNU": 40,
+                "cstCustomerCostCenterTX": null,
+                "OrgName": "\\Organizations\\ISS Customers\\Beumer Group A/S",
+                "triTaskSeverityLI": "1 Low",
+                "triDescriptionTX": "Det midterste blandingsbatteri sidder fast, så man ikke kan skrue op og ned for temperaturen. Contact Center : Lisbeth Tastesen",
+                "triPlannedStartDT": "2018-09-20T09:15:31.038+02:00",
+                "triModifiedByTX": "Svenningsen, Marianne - 1001337",
+                "cstSLAElapsedTimeDU": "0",
+                "triModifiedSY": "2021-02-24T06:58:15.950+01:00"
+            },
+            {
+                "triCreatedByTX": "Svenningsen, Marianne - 1001337",
+                "triTaskTypeCL": "Corrective",
+                "cstCustomerCostCenterLookupTX": null,
+                "cstISSProfitCenterLookupTX": null,
+                "triWorkingLocationTX": "\\Locations\\Beumer Group A/S\\P. O. Pedersens Vej 10\\Bygning Nord\\-1 Kælder",
+                "triRecordNameSY": "1028221--1 Kælder-1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "triConstraintLI": "As Soon As Possible",
+                "cstCustomerCostCenterManualBL": null,
+                "cstISSCostCenterLookupTX": null,
+                "triNameTX": "-1 Kælder-1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "triUserMessageTX": null,
+                "triActualPercentCompleteNU": 100,
+                "triCurrencyUO": "Danish Krone",
+                "cstExternalNumberTX": "112507|testsiemensdk|New",
+                "triActualEndDT": "2018-12-14T08:00:39.514+01:00",
+                "triCreatedDT": "2018-10-26T09:29:57.900+02:00",
+                "triIdTX": "1028221",
+                "triPriorityClassCL": "Medium",
+                "triActualStartDT": "2018-10-26T09:29:57.910+02:00",
+                "triStatusCL": "Closed",
+                "cstCustomerInvoiceTX": null,
+                "triMatrixRequestClassCL": "1664 O&M - Plumbing Repair (Sanitary Drains / Blocked Drains / Toilets )",
+                "cstBudgetTypeLI": null,
+                "triConstraintDT": null,
+                "cstEmergencyBL": false,
+                "cstCustomerPONumTX": null,
+                "identifier": "127876924",
+                "cstAssociatedDocuments": {
+                    "rdfs:member": [
+                        {
+                            "wdrs:describedBy": {
+                                "identifier": "129187813",
+                                "DM_DOCUMENT_NUMBER": "129187811",
+                                "format": {
+                                    "rdfs:label": "image/jpeg"
+                                },
+                                "DM_DOCUMENT_STATUS": "Work In Progress",
+                                "DM_REVISION_DATE": "01/28/2021 10:57 AM",
+                                "DM_FILE_NAME": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "Name": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "DM_REVISION": "0.0"
+                            }
+                        }
+                    ]
+                },
+                "triExternalTaskIdTX": null,
+                "triPlannedWrenchHoursNU": 40,
+                "cstCustomerCostCenterTX": null,
+                "cstWithinOutsideContractTX": "Included",
+                "OrgName": "\\Organizations\\_Retired Org\\Retired\\_Retired Org\\_old",
+                "triTaskSeverityLI": "1 Low",
+                "triDescriptionTX": "Vand på gulv i motionsrum,inderste motionsrum. Contact Center : Jannik Lindbæk   Abrahams\nWorkorder er lukket da det ser ud til der ikke kommer vand ind..",
+                "triPlannedStartDT": "2018-10-26T09:29:57.910+02:00",
+                "triModifiedByTX": "Andersen, Kasper Storgaard - 1017445",
+                "triPlannedEndDT": "2018-11-02T09:29:57+01:00",
+                "cstSLAElapsedTimeDU": "0",
+                "triModifiedSY": "2021-02-11T15:14:44.310+01:00"
+            },
+            {
+                "triCreatedByTX": "Marcussen, Marie Bang - 1017075",
+                "triTaskTypeCL": "Preventive",
+                "cstCustomerCostCenterLookupTX": null,
+                "cstISSProfitCenterLookupTX": null,
+                "triWorkingLocationTX": "\\Locations\\Beumer Group A/S\\P. O. Pedersens Vej\\POP 10 - Byg 3",
+                "triRecordNameSY": "1029455-3M Eftersyn af elevator - QUARTERLY",
+                "triConstraintLI": "As Soon As Possible",
+                "cstCustomerCostCenterManualBL": false,
+                "cstISSCostCenterLookupTX": null,
+                "triNameTX": "3M Eftersyn af elevator - QUARTERLY",
+                "triUserMessageTX": null,
+                "triActualPercentCompleteNU": 0,
+                "triCurrencyUO": "Danish Krone",
+                "cstExternalNumberTX": null,
+                "triActualEndDT": null,
+                "triCreatedDT": "2019-12-18T10:21:27.504+01:00",
+                "triIdTX": "1029455",
+                "triPriorityClassCL": "High",
+                "triActualStartDT": null,
+                "triStatusCL": "Active",
+                "cstCustomerInvoiceTX": null,
+                "triMatrixRequestClassCL": "1200 O&M - Passenger Elevator/Escalator/Lift Maintenance",
+                "cstBudgetTypeLI": null,
+                "triConstraintDT": null,
+                "cstEmergencyBL": false,
+                "cstCustomerPONumTX": null,
+                "identifier": "128730470",
+                "cstAssociatedDocuments": {
+                    "rdfs:member": [
+                        {
+                            "wdrs:describedBy": {
+                                "identifier": "129187811",
+                                "DM_DOCUMENT_NUMBER": "129187811",
+                                "format": {
+                                    "rdfs:label": "image/jpeg"
+                                },
+                                "DM_DOCUMENT_STATUS": "Work In Progress",
+                                "DM_REVISION_DATE": "01/28/2021 10:57 AM",
+                                "DM_FILE_NAME": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "Name": "FFX-Technician Signature (01-28-2021 10.57.36.901).jpg",
+                                "DM_REVISION": "0.0"
+                            }
+                        }
+                    ]
+                },
+                "triExternalTaskIdTX": null,
+                "triPlannedWrenchHoursNU": 160,
+                "cstCustomerCostCenterTX": null,
+                "cstWithinOutsideContractTX": null,
+                "OrgName": "\\Organizations\\ISS Providers",
+                "triTaskSeverityLI": "1 Low",
+                "triDescriptionTX": "3M Eftersyn af elevator",
+                "triPlannedStartDT": "2020-03-02T08:00:00+01:00",
+                "triModifiedByTX": "Nielsen, Jeppe Nørløv - 120713",
+                "triPlannedEndDT": "2020-03-27T17:00:00+01:00",
+                "cstSLAElapsedTimeDU": "0",
+                "triModifiedSY": "2021-02-17T13:51:57.190+01:00"
+            }
+        ]
+    }
+}
